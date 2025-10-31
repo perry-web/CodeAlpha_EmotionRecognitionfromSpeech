@@ -1,4 +1,4 @@
-# Emotion Recognition from Speech 🎙️
+# Emotion Recognition from Speech 
 
 ## Overview
 This project focuses on recognizing human emotions (such as **happy**, **sad**, **angry**, **neutral**, etc.) from speech audio using **deep learning** and **speech signal processing techniques**.  
