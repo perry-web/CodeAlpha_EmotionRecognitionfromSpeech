@@ -1,0 +1,13 @@
+tensorflow
+librosa
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+joblib
+sounddevice
+wavio
+kagglehub
+tk
